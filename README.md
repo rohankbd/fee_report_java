@@ -7,7 +7,7 @@
   <li>Swing Framework</li>
   <li>MySQL DB</li>
 </ul>
-<br>
+
 <h3>Snapshots </h3>
 <img align="center" alt="PIC" width="300px" height="250px" src="/images/1.png" />
 <br>
