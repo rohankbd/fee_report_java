@@ -12,5 +12,5 @@
 <br>
 <img align="center" alt="PIC" width="300px" height="250px" src="/images/5.png" />
 <br>
-<img align="center" alt="PIC" width="300px" height="300px" src="/images/6.png" />
+<img align="center" alt="PIC" width="350px" height="350px" src="/images/6.png" />
 <br>
