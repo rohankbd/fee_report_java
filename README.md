@@ -10,7 +10,7 @@
 <br>
 <img align="center" alt="PIC" width="300px" height="250px" src="/images/4.png" />
 <br>
-<img align="center" alt="PIC" width="300px" height="250px" src="/images/5.png" />
+<img align="center" alt="PIC" width="300px" height="400px" src="/images/5.png" />
 <br>
-<img align="center" alt="PIC" width="500px" height="300px" src="/images/6.png" />
+<img align="center" alt="PIC" width="600px" height="300px" src="/images/6.png" />
 <br>
