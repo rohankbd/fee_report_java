@@ -5,8 +5,9 @@
 <ul>
   <li>Java</li>
   <li>Swing Framework</li>
-  <li>MySQL</li>
+  <li>MySQL DB</li>
 </ul>
+<br>
 <h3>Snapshots </h3>
 <img align="center" alt="PIC" width="300px" height="250px" src="/images/1.png" />
 <br>
@@ -18,5 +19,5 @@
 <br>
 <img align="center" alt="PIC" width="300px" height="400px" src="/images/5.png" />
 <br>
-<img align="center" alt="PIC" width="600px" height="300px" src="/images/6.png" />
+<img align="center" alt="PIC" width="800px" height="300px" src="/images/6.png" />
 <br>
