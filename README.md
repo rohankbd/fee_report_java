@@ -3,8 +3,13 @@
 
 <h3>Snapshots </h3>
 <img align="right" alt="PIC" width="300px" height="250px" src="/images/1.png" />
+<br>
 <img align="right" alt="PIC" width="300px" height="250px" src="/images/2.png" />
+<br>
 <img align="right" alt="PIC" width="300px" height="250px" src="/images/3.png" />
+<br>
 <img align="right" alt="PIC" width="300px" height="250px" src="/images/4.png" />
+<br>
 <img align="right" alt="PIC" width="300px" height="250px" src="/images/5.png" />
+<br>
 <img align="right" alt="PIC" width="300px" height="250px" src="/images/6.png" />
